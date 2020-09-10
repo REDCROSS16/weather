@@ -1,0 +1,12 @@
+"id": 627907,
+"name": "Homyel'", 
+
+"id": 625144,
+"name": "Minsk",          
+
+"id": 629634,
+"name": "Brest",
+
+"id": 628035,
+"name": "Grodno Oblast",
+       

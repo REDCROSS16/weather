@@ -1,0 +1,52 @@
+html, body {
+    font-family: serif;
+    font-family: 'Exo 2', sans-serif;
+}
+body {
+    background: #3AA6D0;
+    margin: 20px;
+}
+.wrap {
+    width: 1000px;
+    margin: 0px 30% 0px 30%;
+}
+.weather {
+    padding: 10px 0 10px 0;
+    margin: 0 auto;
+    border: 2px solid white;
+    width: 500px;
+    height: 400px;   
+    border-radius: 25px;
+    background: #62B1D0;
+}
+.w-header {
+    color: white;
+    font-family: 'Exo 2', sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+#city {
+    width: 500px;
+    border-radius: 20px;
+    border: 2px solid white;
+    height: 50px;
+    font-size: 24px;
+    text-align: center;  
+    font-family: 'Exo 2', sans-serif; 
+    background: #62B1D0;
+    color: white;
+    margin-bottom: 10px;
+    appearance: none;
+
+}
+.weather hr {
+    width: 80%;
+    color: white;
+}
+.sun {
+    display: flex;
+}
+
+.sunset, .sunrise {
+    width: 50%;
+}
